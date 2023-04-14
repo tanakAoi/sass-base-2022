@@ -8,4 +8,4 @@
 rm -rf .git`
 
 ## Develop
-`sass --watch src/scss/style.scss style.css`# uppgift-projekt-6
+`sass --watch src/scss/style.scss style.css`
