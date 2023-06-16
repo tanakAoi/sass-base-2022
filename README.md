@@ -9,5 +9,3 @@ rm -rf .git`
 
 ## Develop
 `sass --watch src/scss/style.scss style.css`
-# jotex
-# jotex
